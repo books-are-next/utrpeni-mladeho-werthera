@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="99527d21-3431-4edd-83e1-e87f65b92a9f" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Utrpení mladého Werthera</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>PRVNÍ DÍL</text>
+      </navLabel>
+      <content src="Text/utrpeni_mladeho_werthera_006.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>DRUHÝ DÍL</text>
+      </navLabel>
+      <content src="Text/utrpeni_mladeho_werthera_008.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Poznámky pod čarou</text>
+      </navLabel>
+      <content src="Text/utrpeni_mladeho_werthera_010.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

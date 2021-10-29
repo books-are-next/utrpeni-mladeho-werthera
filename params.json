@@ -1,0 +1,162 @@
+{
+  "epub": {
+    "metadata": {
+      "title": "Utrpení mladého Werthera",
+      "identifier": "99527d21-3431-4edd-83e1-e87f65b92a9f",
+      "author": "Johann Wolfgang Goethe",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-10-29T08:41:30.619Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "utrpeni_mladeho_werthera_001.md",
+        "xhtml": "utrpeni_mladeho_werthera_001.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "utrpeni_mladeho_werthera_002.md",
+        "xhtml": "utrpeni_mladeho_werthera_002.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "utrpeni_mladeho_werthera_003.md",
+        "xhtml": "utrpeni_mladeho_werthera_003.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "utrpeni_mladeho_werthera_004.md",
+        "xhtml": "utrpeni_mladeho_werthera_004.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "utrpeni_mladeho_werthera_005.md",
+        "xhtml": "utrpeni_mladeho_werthera_005.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "utrpeni_mladeho_werthera_006.md",
+        "xhtml": "utrpeni_mladeho_werthera_006.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "utrpeni_mladeho_werthera_007.md",
+        "xhtml": "utrpeni_mladeho_werthera_007.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "utrpeni_mladeho_werthera_008.md",
+        "xhtml": "utrpeni_mladeho_werthera_008.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "utrpeni_mladeho_werthera_009.md",
+        "xhtml": "utrpeni_mladeho_werthera_009.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "utrpeni_mladeho_werthera_010.md",
+        "xhtml": "utrpeni_mladeho_werthera_010.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "utrpeni_mladeho_werthera_011.md",
+        "xhtml": "utrpeni_mladeho_werthera_011.html"
+      }
+    ],
+    "resources": [
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image002.png"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/page_styles.css"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/stylesheet.css"
+      },
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka.jpg"
+      }
+    ],
+    "classes": [
+      "calibre1",
+      "calibre10",
+      "calibre11",
+      "calibre12",
+      "calibre13",
+      "calibre14",
+      "calibre15",
+      "calibre16",
+      "calibre17",
+      "calibre5",
+      "calibre6",
+      "calibre7",
+      "mlphvezdicky",
+      "mlplicencehypertext",
+      "mlplicenceobrazek",
+      "mlplicenceparagraf",
+      "mlplicencetext",
+      "mlpobrazky",
+      "mlptext",
+      "mlptext1",
+      "mlptextbez1radku",
+      "mlptextbez1radku1",
+      "mlptextbez1radku2",
+      "mlptextbez1radku3",
+      "mlptextbez1radkui",
+      "mlptextbez1radkui1",
+      "mlptirazautoranazev",
+      "mlptitulkaautor",
+      "mlptitulkaautor1",
+      "mlptitulkanazev",
+      "mlpuroven1cast",
+      "mlpuroven1cast1",
+      "mlpuroven3nadpisgoethe",
+      "mlpznaktucne",
+      "msofootnotereference",
+      "msofootnotetext",
+      "pcalibre",
+      "pcalibre1",
+      "wordsection",
+      "wordsection1",
+      "wordsection3",
+      "wordsection4",
+      "wordsection5",
+      "wordsection6",
+      "wordsection7",
+      "wordsection8"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "utrpeni-mladeho-werthera"
+    },
+    "generatedAt": 1635496890923
+  }
+}

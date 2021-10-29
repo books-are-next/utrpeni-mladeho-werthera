@@ -1,0 +1,103 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Utrpení mladého Werthera",
+    "identifier": "99527d21-3431-4edd-83e1-e87f65b92a9f",
+    "author": "Johann Wolfgang Goethe",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs",
+    "modified": "2021-10-29T08:41:30.619Z",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/utrpeni_mladeho_werthera_001.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/utrpeni_mladeho_werthera_002.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/utrpeni_mladeho_werthera_003.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/utrpeni_mladeho_werthera_004.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/utrpeni_mladeho_werthera_005.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/utrpeni_mladeho_werthera_006.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/utrpeni_mladeho_werthera_007.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/utrpeni_mladeho_werthera_008.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/utrpeni_mladeho_werthera_009.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/utrpeni_mladeho_werthera_010.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/utrpeni_mladeho_werthera_011.html"
+    }
+  ],
+  "resources": [
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image002.png"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/page_styles.css"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/stylesheet.css"
+    },
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "PRVNÍ DÍL",
+      "href": "OEBPS/Text/utrpeni_mladeho_werthera_006.html"
+    },
+    {
+      "title": "DRUHÝ DÍL",
+      "href": "OEBPS/Text/utrpeni_mladeho_werthera_008.html"
+    },
+    {
+      "title": "Poznámky pod čarou",
+      "href": "OEBPS/Text/utrpeni_mladeho_werthera_010.html"
+    }
+  ]
+}
