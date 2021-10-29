@@ -36,45 +36,45 @@
             "filename": "utrpeni_mladeho_werthera_001.md",
             "xhtml": "utrpeni_mladeho_werthera_001.html",
             "id": 0,
-            "role": "chapter",
+            "role": "break",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
             "filename": "utrpeni_mladeho_werthera_002.md",
             "xhtml": "utrpeni_mladeho_werthera_002.html",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
             "filename": "utrpeni_mladeho_werthera_003.md",
             "xhtml": "utrpeni_mladeho_werthera_003.html",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
             "filename": "utrpeni_mladeho_werthera_004.md",
             "xhtml": "utrpeni_mladeho_werthera_004.html",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
             "filename": "utrpeni_mladeho_werthera_005.md",
             "xhtml": "utrpeni_mladeho_werthera_005.html",
             "id": 4,
-            "role": "chapter",
+            "role": "colophon",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -84,7 +84,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "PRVNÍ DÍL"
           },
           {
             "filename": "utrpeni_mladeho_werthera_007.md",
@@ -102,7 +103,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "DRUHÝ DÍL"
           },
           {
             "filename": "utrpeni_mladeho_werthera_009.md",
@@ -120,15 +122,16 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "Poznámky pod čarou"
           },
           {
             "filename": "utrpeni_mladeho_werthera_011.md",
             "xhtml": "utrpeni_mladeho_werthera_011.html",
             "id": 10,
-            "role": "chapter",
+            "role": "colophon",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           }
         ]
@@ -141,8 +144,7 @@
       "identifier": "99527d21-3431-4edd-83e1-e87f65b92a9f",
       "author": "Johann Wolfgang Goethe",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-10-29T08:41:30.619Z",
-      "languageCode": "cs"
+      "modified": "2021-10-29T08:56:41.280Z"
     },
     "chapters": [
       {
@@ -176,7 +178,7 @@
         "xhtml": "utrpeni_mladeho_werthera_005.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "PRVNÍ DÍL",
         "subtitleSuggest": "",
         "filename": "utrpeni_mladeho_werthera_006.md",
         "xhtml": "utrpeni_mladeho_werthera_006.html"
@@ -188,7 +190,7 @@
         "xhtml": "utrpeni_mladeho_werthera_007.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "DRUHÝ DÍL",
         "subtitleSuggest": "",
         "filename": "utrpeni_mladeho_werthera_008.md",
         "xhtml": "utrpeni_mladeho_werthera_008.html"
@@ -200,7 +202,7 @@
         "xhtml": "utrpeni_mladeho_werthera_009.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Poznámky pod čarou",
         "subtitleSuggest": "",
         "filename": "utrpeni_mladeho_werthera_010.md",
         "xhtml": "utrpeni_mladeho_werthera_010.html"
@@ -294,6 +296,6 @@
       "user": "books-are-next",
       "repo": "utrpeni-mladeho-werthera"
     },
-    "generatedAt": 1635496890923
+    "generatedAt": 1635497801756
   }
 }
