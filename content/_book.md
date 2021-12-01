@@ -9,8 +9,9 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2021-10-29T08:41:30.619Z'
   languageCode: cs
+  publisherShort: mkp
+  edition: beletrie
 readingOrder:
-  - utrpeni_mladeho_werthera_001.html
   - utrpeni_mladeho_werthera_002.html
   - utrpeni_mladeho_werthera_006.html
   - utrpeni_mladeho_werthera_007.html
