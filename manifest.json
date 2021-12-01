@@ -1,36 +1,18 @@
 {
   "author": "Johann Wolfgang Goethe",
-  "identifier": "goethe-utrpeni-mladeho-werthera-cc87741",
+  "edition": "beletrie",
+  "identifier": "goethe-utrpeni-mladeho-werthera-e526e5a",
   "languagecode": "cs",
   "modified": "2021-10-29T08:41:30.619Z",
   "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
   "title": "Utrpení mladého Werthera",
-  "revision": "cc87741",
+  "revision": "e526e5a",
   "generatedAt": {
-    "date": "Wed Dec 01 2021 21:21:00 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638393660381
+    "date": "Wed Dec 01 2021 22:05:10 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1638396310093
   },
   "documents": [
-    {
-      "title": "Utrpení mladého Werthera",
-      "file": "utrpeni_mladeho_werthera_001.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
-      "next": "utrpeni_mladeho_werthera_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
     {
       "title": "Utrpení mladého Werthera",
       "file": "utrpeni_mladeho_werthera_002.html",
@@ -38,8 +20,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 1,
-      "prev": "utrpeni_mladeho_werthera_001.html",
+      "order": 0,
+      "prev": null,
       "next": "utrpeni_mladeho_werthera_006.html",
       "toc": [
         {
@@ -58,7 +40,7 @@
       "chars": 9,
       "ideas": 1,
       "role": "chapter",
-      "order": 2,
+      "order": 1,
       "prev": "utrpeni_mladeho_werthera_002.html",
       "next": "utrpeni_mladeho_werthera_007.html",
       "toc": [
@@ -78,7 +60,7 @@
       "chars": 88299,
       "ideas": 195,
       "role": "chapter",
-      "order": 3,
+      "order": 2,
       "prev": "utrpeni_mladeho_werthera_006.html",
       "next": "utrpeni_mladeho_werthera_008.html",
       "toc": [
@@ -372,7 +354,7 @@
       "chars": 9,
       "ideas": 1,
       "role": "chapter",
-      "order": 4,
+      "order": 3,
       "prev": "utrpeni_mladeho_werthera_007.html",
       "next": "utrpeni_mladeho_werthera_009.html",
       "toc": [
@@ -392,7 +374,7 @@
       "chars": 88865,
       "ideas": 225,
       "role": "chapter",
-      "order": 5,
+      "order": 4,
       "prev": "utrpeni_mladeho_werthera_008.html",
       "next": "utrpeni_mladeho_werthera_010.html",
       "toc": [
@@ -728,7 +710,7 @@
       "chars": 972,
       "ideas": 10,
       "role": "chapter",
-      "order": 6,
+      "order": 5,
       "prev": "utrpeni_mladeho_werthera_009.html",
       "next": "colophon.html",
       "toc": [
@@ -764,9 +746,9 @@
   ],
   "totals": {
     "all": {
-      "words": 31226,
-      "chars": 179645,
-      "ideas": 462
+      "words": 31228,
+      "chars": 179656,
+      "ideas": 464
     },
     "chapters": {
       "words": 30991,

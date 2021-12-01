@@ -6,7 +6,9 @@
       "author": "Johann Wolfgang Goethe",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-10-29T08:41:30.619Z",
-      "languageCode": "cs"
+      "languageCode": "cs",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "mlpuroven1cast\nmlpuroven1cast1",
@@ -36,7 +38,7 @@
             "filename": "utrpeni_mladeho_werthera_001.md",
             "xhtml": "utrpeni_mladeho_werthera_001.html",
             "id": 0,
-            "role": "break",
+            "role": "cover",
             "numberedChildren": false,
             "inToc": false,
             "children": []
@@ -144,7 +146,7 @@
       "identifier": "99527d21-3431-4edd-83e1-e87f65b92a9f",
       "author": "Johann Wolfgang Goethe",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-12-01T21:20:06.663Z"
+      "modified": "2021-12-01T22:04:12.014Z"
     },
     "chapters": [
       {
@@ -296,6 +298,6 @@
       "user": "books-are-next",
       "repo": "utrpeni-mladeho-werthera"
     },
-    "generatedAt": 1638393607035
+    "generatedAt": 1638396252401
   }
 }
