@@ -144,7 +144,7 @@
       "identifier": "99527d21-3431-4edd-83e1-e87f65b92a9f",
       "author": "Johann Wolfgang Goethe",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-11-10T08:40:25.638Z"
+      "modified": "2021-12-01T21:20:06.663Z"
     },
     "chapters": [
       {
@@ -296,6 +296,6 @@
       "user": "books-are-next",
       "repo": "utrpeni-mladeho-werthera"
     },
-    "generatedAt": 1636533626033
+    "generatedAt": 1638393607035
   }
 }

@@ -1,0 +1,777 @@
+{
+  "author": "Johann Wolfgang Goethe",
+  "identifier": "goethe-utrpeni-mladeho-werthera-cc87741",
+  "languagecode": "cs",
+  "modified": "2021-10-29T08:41:30.619Z",
+  "publisher": "Městská knihovna v Praze",
+  "title": "Utrpení mladého Werthera",
+  "revision": "cc87741",
+  "generatedAt": {
+    "date": "Wed Dec 01 2021 21:21:00 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1638393660381
+  },
+  "documents": [
+    {
+      "title": "Utrpení mladého Werthera",
+      "file": "utrpeni_mladeho_werthera_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "utrpeni_mladeho_werthera_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Utrpení mladého Werthera",
+      "file": "utrpeni_mladeho_werthera_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "utrpeni_mladeho_werthera_001.html",
+      "next": "utrpeni_mladeho_werthera_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "PRVNÍ DÍL • Utrpení mladého Werthera",
+      "file": "utrpeni_mladeho_werthera_006.html",
+      "words": 2,
+      "chars": 9,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 2,
+      "prev": "utrpeni_mladeho_werthera_002.html",
+      "next": "utrpeni_mladeho_werthera_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "PRVNÍ DÍL",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Utrpení mladého Werthera",
+      "file": "utrpeni_mladeho_werthera_007.html",
+      "words": 15358,
+      "chars": 88299,
+      "ideas": 195,
+      "role": "chapter",
+      "order": 3,
+      "prev": "utrpeni_mladeho_werthera_006.html",
+      "next": "utrpeni_mladeho_werthera_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "4. května 1771",
+              "id": "4-května-1771",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "10. května",
+              "id": "10-května",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "12. května",
+              "id": "12-května",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "13. května",
+              "id": "13-května",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "15. května",
+              "id": "15-května",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "17. května",
+              "id": "17-května",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "22. května",
+              "id": "22-května",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "26. května",
+              "id": "26-května",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "27. května",
+              "id": "27-května",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "16. června",
+              "id": "16-června",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "19. června",
+              "id": "19-června",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "21. června",
+              "id": "21-června",
+              "children": []
+            },
+            {
+              "index": 13,
+              "level": 2,
+              "name": "29. června",
+              "id": "29-června",
+              "children": []
+            },
+            {
+              "index": 14,
+              "level": 2,
+              "name": "1. července",
+              "id": "1-července",
+              "children": []
+            },
+            {
+              "index": 15,
+              "level": 2,
+              "name": "6. července",
+              "id": "6-července",
+              "children": []
+            },
+            {
+              "index": 16,
+              "level": 2,
+              "name": "8. července",
+              "id": "8-července",
+              "children": []
+            },
+            {
+              "index": 17,
+              "level": 2,
+              "name": "10. července",
+              "id": "10-července",
+              "children": []
+            },
+            {
+              "index": 18,
+              "level": 2,
+              "name": "11. července",
+              "id": "11-července",
+              "children": []
+            },
+            {
+              "index": 19,
+              "level": 2,
+              "name": "13. července",
+              "id": "13-července",
+              "children": []
+            },
+            {
+              "index": 20,
+              "level": 2,
+              "name": "16. července",
+              "id": "16-července",
+              "children": []
+            },
+            {
+              "index": 21,
+              "level": 2,
+              "name": "18. července",
+              "id": "18-července",
+              "children": []
+            },
+            {
+              "index": 22,
+              "level": 2,
+              "name": "19. července",
+              "id": "19-července",
+              "children": []
+            },
+            {
+              "index": 23,
+              "level": 2,
+              "name": "20. července",
+              "id": "20-července",
+              "children": []
+            },
+            {
+              "index": 24,
+              "level": 2,
+              "name": "24. července",
+              "id": "24-července",
+              "children": []
+            },
+            {
+              "index": 25,
+              "level": 2,
+              "name": "25. července",
+              "id": "25-července",
+              "children": []
+            },
+            {
+              "index": 26,
+              "level": 2,
+              "name": "26. července",
+              "id": "26-července",
+              "children": []
+            },
+            {
+              "index": 27,
+              "level": 2,
+              "name": "30. července",
+              "id": "30-července",
+              "children": []
+            },
+            {
+              "index": 28,
+              "level": 2,
+              "name": "8. srpna",
+              "id": "8-srpna",
+              "children": []
+            },
+            {
+              "index": 29,
+              "level": 2,
+              "name": "Večer",
+              "id": "večer",
+              "children": []
+            },
+            {
+              "index": 30,
+              "level": 2,
+              "name": "10. srpna",
+              "id": "10-srpna",
+              "children": []
+            },
+            {
+              "index": 31,
+              "level": 2,
+              "name": "12. srpna",
+              "id": "12-srpna",
+              "children": []
+            },
+            {
+              "index": 32,
+              "level": 2,
+              "name": "15. srpna",
+              "id": "15-srpna",
+              "children": []
+            },
+            {
+              "index": 33,
+              "level": 2,
+              "name": "18. srpna",
+              "id": "18-srpna",
+              "children": []
+            },
+            {
+              "index": 34,
+              "level": 2,
+              "name": "21. srpna",
+              "id": "21-srpna",
+              "children": []
+            },
+            {
+              "index": 35,
+              "level": 2,
+              "name": "22. srpna",
+              "id": "22-srpna",
+              "children": []
+            },
+            {
+              "index": 36,
+              "level": 2,
+              "name": "28. srpna",
+              "id": "28-srpna",
+              "children": []
+            },
+            {
+              "index": 37,
+              "level": 2,
+              "name": "30. srpna",
+              "id": "30-srpna",
+              "children": []
+            },
+            {
+              "index": 38,
+              "level": 2,
+              "name": "3. září",
+              "id": "3-září",
+              "children": []
+            },
+            {
+              "index": 39,
+              "level": 2,
+              "name": "10. září",
+              "id": "10-září",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "DRUHÝ DÍL • Utrpení mladého Werthera",
+      "file": "utrpeni_mladeho_werthera_008.html",
+      "words": 2,
+      "chars": 9,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 4,
+      "prev": "utrpeni_mladeho_werthera_007.html",
+      "next": "utrpeni_mladeho_werthera_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DRUHÝ DÍL",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Utrpení mladého Werthera",
+      "file": "utrpeni_mladeho_werthera_009.html",
+      "words": 15472,
+      "chars": 88865,
+      "ideas": 225,
+      "role": "chapter",
+      "order": 5,
+      "prev": "utrpeni_mladeho_werthera_008.html",
+      "next": "utrpeni_mladeho_werthera_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "20. října 1771",
+              "id": "20-října-1771",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "10. listopadu",
+              "id": "10-listopadu",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "24. prosince",
+              "id": "24-prosince",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "8. ledna 1772",
+              "id": "8-ledna-1772",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "20. ledna",
+              "id": "20-ledna",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "17. února",
+              "id": "17-února",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "20. února",
+              "id": "20-února",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "15. března",
+              "id": "15-března",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "16. března",
+              "id": "16-března",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "24. března",
+              "id": "24-března",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "19. dubna",
+              "id": "19-dubna",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "5. května",
+              "id": "5-května",
+              "children": []
+            },
+            {
+              "index": 13,
+              "level": 2,
+              "name": "9. května",
+              "id": "9-května",
+              "children": []
+            },
+            {
+              "index": 14,
+              "level": 2,
+              "name": "25. května",
+              "id": "25-května",
+              "children": []
+            },
+            {
+              "index": 15,
+              "level": 2,
+              "name": "11. června",
+              "id": "11-června",
+              "children": []
+            },
+            {
+              "index": 16,
+              "level": 2,
+              "name": "18. června",
+              "id": "18-června",
+              "children": []
+            },
+            {
+              "index": 17,
+              "level": 2,
+              "name": "29. června",
+              "id": "29-června",
+              "children": []
+            },
+            {
+              "index": 18,
+              "level": 2,
+              "name": "4. srpna",
+              "id": "4-srpna",
+              "children": []
+            },
+            {
+              "index": 19,
+              "level": 2,
+              "name": "21. srpna",
+              "id": "21-srpna",
+              "children": []
+            },
+            {
+              "index": 20,
+              "level": 2,
+              "name": "3. září",
+              "id": "3-září",
+              "children": []
+            },
+            {
+              "index": 21,
+              "level": 2,
+              "name": "6. září",
+              "id": "6-září",
+              "children": []
+            },
+            {
+              "index": 22,
+              "level": 2,
+              "name": "15. září",
+              "id": "15-září",
+              "children": []
+            },
+            {
+              "index": 23,
+              "level": 2,
+              "name": "10. října",
+              "id": "10-října",
+              "children": []
+            },
+            {
+              "index": 24,
+              "level": 2,
+              "name": "12. října",
+              "id": "12-října",
+              "children": []
+            },
+            {
+              "index": 25,
+              "level": 2,
+              "name": "19. října",
+              "id": "19-října",
+              "children": []
+            },
+            {
+              "index": 26,
+              "level": 2,
+              "name": "26. října",
+              "id": "26-října",
+              "children": []
+            },
+            {
+              "index": 27,
+              "level": 2,
+              "name": "27. října",
+              "id": "27-října",
+              "children": []
+            },
+            {
+              "index": 28,
+              "level": 2,
+              "name": "30. října",
+              "id": "30-října",
+              "children": []
+            },
+            {
+              "index": 29,
+              "level": 2,
+              "name": "3. listopadu",
+              "id": "3-listopadu",
+              "children": []
+            },
+            {
+              "index": 30,
+              "level": 2,
+              "name": "8. listopadu",
+              "id": "8-listopadu",
+              "children": []
+            },
+            {
+              "index": 31,
+              "level": 2,
+              "name": "15. listopadu",
+              "id": "15-listopadu",
+              "children": []
+            },
+            {
+              "index": 32,
+              "level": 2,
+              "name": "21. listopadu",
+              "id": "21-listopadu",
+              "children": []
+            },
+            {
+              "index": 33,
+              "level": 2,
+              "name": "24. listopadu",
+              "id": "24-listopadu",
+              "children": []
+            },
+            {
+              "index": 34,
+              "level": 2,
+              "name": "30. listopadu",
+              "id": "30-listopadu",
+              "children": []
+            },
+            {
+              "index": 35,
+              "level": 2,
+              "name": "1. prosince",
+              "id": "1-prosince",
+              "children": []
+            },
+            {
+              "index": 36,
+              "level": 2,
+              "name": "4. prosince",
+              "id": "4-prosince",
+              "children": []
+            },
+            {
+              "index": 37,
+              "level": 2,
+              "name": "6. prosince",
+              "id": "6-prosince",
+              "children": []
+            },
+            {
+              "index": 38,
+              "level": 2,
+              "name": "8. prosince",
+              "id": "8-prosince",
+              "children": []
+            },
+            {
+              "index": 39,
+              "level": 2,
+              "name": "17. prosince",
+              "id": "17-prosince",
+              "children": []
+            },
+            {
+              "index": 40,
+              "level": 2,
+              "name": "[VYDAVATEL ČTENÁŘI]",
+              "id": "vydavatel-čtenáři",
+              "children": []
+            },
+            {
+              "index": 41,
+              "level": 2,
+              "name": "20. prosince",
+              "id": "20-prosince",
+              "children": []
+            },
+            {
+              "index": 42,
+              "level": 2,
+              "name": "[KOLMA]",
+              "id": "kolma",
+              "children": []
+            },
+            {
+              "index": 43,
+              "level": 2,
+              "name": "[RYNO]",
+              "id": "ryno",
+              "children": []
+            },
+            {
+              "index": 44,
+              "level": 2,
+              "name": "[ALPIN]",
+              "id": "alpin",
+              "children": []
+            },
+            {
+              "index": 45,
+              "level": 2,
+              "name": "Po jedenácté",
+              "id": "ponbspjedenácté",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Poznámky pod čarou • Utrpení mladého Werthera",
+      "file": "utrpeni_mladeho_werthera_010.html",
+      "words": 157,
+      "chars": 972,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 6,
+      "prev": "utrpeni_mladeho_werthera_009.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poznámky pod čarou",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Utrpení mladého Werthera",
+      "file": "colophon.html",
+      "words": 229,
+      "chars": 1445,
+      "ideas": 28,
+      "role": "colophon",
+      "order": null,
+      "prev": "utrpeni_mladeho_werthera_010.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 31226,
+      "chars": 179645,
+      "ideas": 462
+    },
+    "chapters": {
+      "words": 30991,
+      "chars": 178154,
+      "ideas": 432
+    }
+  }
+}
