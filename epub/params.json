@@ -1,4 +1,5 @@
 {
+  "extractionComplete": false,
   "params": {
     "metadata": {
       "title": "Utrpení mladého Werthera",
@@ -6,7 +7,9 @@
       "author": "Johann Wolfgang Goethe",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-10-29T08:41:30.619Z",
-      "languageCode": "cs"
+      "languageCode": "cs",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "mlpuroven1cast\nmlpuroven1cast1",
@@ -36,7 +39,7 @@
             "filename": "utrpeni_mladeho_werthera_001.md",
             "xhtml": "utrpeni_mladeho_werthera_001.html",
             "id": 0,
-            "role": "break",
+            "role": "cover",
             "numberedChildren": false,
             "inToc": false,
             "children": []
@@ -299,3 +302,4 @@
     "generatedAt": 1635497801756
   }
 }
+
