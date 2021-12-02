@@ -29,6 +29,7 @@ tocBase:
       - link: utrpeni_mladeho_werthera_010.html
         title: Poznámky pod čarou
     isSection: true
+    listType: plain
 static:
   - style
   - scripts
