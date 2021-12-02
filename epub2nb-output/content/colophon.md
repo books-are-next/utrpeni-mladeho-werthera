@@ -9,8 +9,7 @@ mladého Werthera
 
 Johann Wolfgang Goethe
 
-_Přeložil Erik A. Saudek  
-_
+Přeložil Erik A. Saudek
 
 
 ***

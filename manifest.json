@@ -1,16 +1,16 @@
 {
   "author": "Johann Wolfgang Goethe",
   "edition": "beletrie",
-  "identifier": "goethe-utrpeni-mladeho-werthera-e526e5a",
+  "identifier": "goethe-utrpeni-mladeho-werthera-6ea2b57",
   "languagecode": "cs",
   "modified": "2021-10-29T08:41:30.619Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Utrpení mladého Werthera",
-  "revision": "e526e5a",
+  "revision": "6ea2b57",
   "generatedAt": {
-    "date": "Wed Dec 01 2021 22:05:10 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638396310093
+    "date": "Thu Dec 02 2021 17:57:04 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1638467824792
   },
   "documents": [
     {
@@ -726,9 +726,9 @@
     {
       "title": "Tiráž • Utrpení mladého Werthera",
       "file": "colophon.html",
-      "words": 229,
-      "chars": 1445,
-      "ideas": 28,
+      "words": 228,
+      "chars": 1443,
+      "ideas": 27,
       "role": "colophon",
       "order": null,
       "prev": "utrpeni_mladeho_werthera_010.html",
@@ -746,9 +746,9 @@
   ],
   "totals": {
     "all": {
-      "words": 31228,
-      "chars": 179656,
-      "ideas": 464
+      "words": 31227,
+      "chars": 179654,
+      "ideas": 463
     },
     "chapters": {
       "words": 30991,
