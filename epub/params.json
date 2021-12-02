@@ -1,5 +1,4 @@
 {
-  "extractionComplete": false,
   "params": {
     "metadata": {
       "title": "Utrpení mladého Werthera",
@@ -25,7 +24,7 @@
       "brAfter": "",
       "blockquote": "",
       "figure": "",
-      "em": "mlptextbez1radkui  \nmlptextbez1radkui1\nmlptitulkaautor1",
+      "em": "mlptextbez1radkui  \nmlptextbez1radkui1\n",
       "strong": "mlptirazautoranazev\nmlpznaktucne",
       "remove": "",
       "ignore": ""
@@ -34,14 +33,15 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "utrpeni_mladeho_werthera_001.md",
             "xhtml": "utrpeni_mladeho_werthera_001.html",
             "id": 0,
             "role": "cover",
-            "numberedChildren": false,
             "inToc": false,
+            "listType": "plain",
             "children": []
           },
           {
@@ -49,8 +49,8 @@
             "xhtml": "utrpeni_mladeho_werthera_002.html",
             "id": 1,
             "role": "break",
-            "numberedChildren": false,
             "inToc": false,
+            "listType": "plain",
             "children": []
           },
           {
@@ -58,8 +58,8 @@
             "xhtml": "utrpeni_mladeho_werthera_003.html",
             "id": 2,
             "role": "colophon",
-            "numberedChildren": false,
             "inToc": false,
+            "listType": "plain",
             "children": []
           },
           {
@@ -67,8 +67,8 @@
             "xhtml": "utrpeni_mladeho_werthera_004.html",
             "id": 3,
             "role": "colophon",
-            "numberedChildren": false,
             "inToc": false,
+            "listType": "plain",
             "children": []
           },
           {
@@ -76,8 +76,8 @@
             "xhtml": "utrpeni_mladeho_werthera_005.html",
             "id": 4,
             "role": "colophon",
-            "numberedChildren": false,
             "inToc": false,
+            "listType": "plain",
             "children": []
           },
           {
@@ -85,18 +85,18 @@
             "xhtml": "utrpeni_mladeho_werthera_006.html",
             "id": 5,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "PRVNÍ DÍL"
+            "title": "PRVNÍ DÍL",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "utrpeni_mladeho_werthera_007.md",
             "xhtml": "utrpeni_mladeho_werthera_007.html",
             "id": 6,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
+            "listType": "plain",
             "children": []
           },
           {
@@ -104,18 +104,18 @@
             "xhtml": "utrpeni_mladeho_werthera_008.html",
             "id": 7,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "DRUHÝ DÍL"
+            "title": "DRUHÝ DÍL",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "utrpeni_mladeho_werthera_009.md",
             "xhtml": "utrpeni_mladeho_werthera_009.html",
             "id": 8,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
+            "listType": "plain",
             "children": []
           },
           {
@@ -123,18 +123,18 @@
             "xhtml": "utrpeni_mladeho_werthera_010.html",
             "id": 9,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "Poznámky pod čarou"
+            "title": "Poznámky pod čarou",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "utrpeni_mladeho_werthera_011.md",
             "xhtml": "utrpeni_mladeho_werthera_011.html",
             "id": 10,
             "role": "colophon",
-            "numberedChildren": false,
             "inToc": false,
+            "listType": "plain",
             "children": []
           }
         ]
@@ -147,7 +147,7 @@
       "identifier": "99527d21-3431-4edd-83e1-e87f65b92a9f",
       "author": "Johann Wolfgang Goethe",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-10-29T08:56:41.280Z"
+      "modified": "2021-12-01T22:04:12.014Z"
     },
     "chapters": [
       {
@@ -299,7 +299,6 @@
       "user": "books-are-next",
       "repo": "utrpeni-mladeho-werthera"
     },
-    "generatedAt": 1635497801756
+    "generatedAt": 1638396252401
   }
 }
-
