@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 ## 4\. května 1771

@@ -1,6 +1,7 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
 languageCode: cs
 meta:
   title: Utrpení mladého Werthera
@@ -13,6 +14,7 @@ meta:
   edition: beletrie
 readingOrder:
   - utrpeni_mladeho_werthera_002.html
+  - utrpeni_mladeho_werthera_005.html
   - utrpeni_mladeho_werthera_006.html
   - utrpeni_mladeho_werthera_007.html
   - utrpeni_mladeho_werthera_008.html
@@ -22,6 +24,9 @@ readingOrder:
 tocBase:
   - id: section-1
     children:
+      - link: utrpeni_mladeho_werthera_005.html
+        title: Vše, čeho jsem se...
+        hiddenTitle: true
       - link: utrpeni_mladeho_werthera_006.html
         title: PRVNÍ DÍL
       - link: utrpeni_mladeho_werthera_008.html
