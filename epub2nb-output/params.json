@@ -75,10 +75,12 @@
             "filename": "utrpeni_mladeho_werthera_005.md",
             "xhtml": "utrpeni_mladeho_werthera_005.html",
             "id": 4,
-            "role": "colophon",
-            "inToc": false,
+            "role": "chapter",
+            "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "Vše, čeho jsem se...",
+            "hiddenTitle": true
           },
           {
             "filename": "utrpeni_mladeho_werthera_006.md",
@@ -147,7 +149,7 @@
       "identifier": "99527d21-3431-4edd-83e1-e87f65b92a9f",
       "author": "Johann Wolfgang Goethe",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-12-02T17:55:59.025Z"
+      "modified": "2018-02-06T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -299,6 +301,6 @@
       "user": "books-are-next",
       "repo": "utrpeni-mladeho-werthera"
     },
-    "generatedAt": 1638467759396
+    "generatedAt": 1651580359005
   }
 }

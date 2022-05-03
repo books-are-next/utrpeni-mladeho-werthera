@@ -1,5 +1,6 @@
 ---
 title: Poznámky pod čarou
+contentType: prose
 ---
 
 [\[1\]](./resources/undefined) Čtenář se nebude snažit, aby na mapě nalezl místa zde jmenovaná. Nastaly okolnosti, které přiměly vydavatele, aby pravá jména, v originále uvedená, pozměnil.

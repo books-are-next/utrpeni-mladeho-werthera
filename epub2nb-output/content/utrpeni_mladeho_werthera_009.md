@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 ## 20\. října 1771
