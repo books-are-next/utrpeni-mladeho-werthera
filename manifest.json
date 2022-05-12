@@ -1,21 +1,33 @@
 {
-  "author": "Johann Wolfgang Goethe",
-  "edition": "beletrie",
-  "identifier": "goethe-utrpeni-mladeho-werthera-4bdf428",
-  "languagecode": "cs",
-  "modified": "2021-10-29T08:41:30.619Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Utrpení mladého Werthera",
-  "revision": "4bdf428",
+  "author": "Johann Wolfgang Goethe",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "goethe-utrpeni-mladeho-werthera-1af2bce",
+  "revision": "1af2bce",
+  "readingOrder": [
+    "promo.html",
+    "utrpeni_mladeho_werthera_005.html",
+    "utrpeni_mladeho_werthera_006.html",
+    "utrpeni_mladeho_werthera_007.html",
+    "utrpeni_mladeho_werthera_008.html",
+    "utrpeni_mladeho_werthera_009.html",
+    "utrpeni_mladeho_werthera_010.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Tue May 03 2022 12:20:05 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1651580405150
+    "date": "Thu May 12 2022 10:44:32 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352272174
   },
   "documents": [
     {
-      "title": "Utrpení mladého Werthera",
-      "file": "utrpeni_mladeho_werthera_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -23,15 +35,7 @@
       "order": 0,
       "prev": null,
       "next": "utrpeni_mladeho_werthera_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Utrpení mladého Werthera",
@@ -41,7 +45,7 @@
       "ideas": 2,
       "role": "chapter",
       "order": 1,
-      "prev": "utrpeni_mladeho_werthera_002.html",
+      "prev": "promo.html",
       "next": "utrpeni_mladeho_werthera_006.html",
       "toc": [
         {
@@ -54,7 +58,7 @@
       ]
     },
     {
-      "title": "PRVNÍ DÍL • Utrpení mladého Werthera",
+      "title": "PRVNÍ DÍL",
       "file": "utrpeni_mladeho_werthera_006.html",
       "words": 2,
       "chars": 9,
@@ -368,7 +372,7 @@
       ]
     },
     {
-      "title": "DRUHÝ DÍL • Utrpení mladého Werthera",
+      "title": "DRUHÝ DÍL",
       "file": "utrpeni_mladeho_werthera_008.html",
       "words": 2,
       "chars": 9,
@@ -724,7 +728,7 @@
       ]
     },
     {
-      "title": "Poznámky pod čarou • Utrpení mladého Werthera",
+      "title": "Poznámky pod čarou",
       "file": "utrpeni_mladeho_werthera_010.html",
       "words": 157,
       "chars": 972,
@@ -744,11 +748,11 @@
       ]
     },
     {
-      "title": "Tiráž • Utrpení mladého Werthera",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 158,
-      "chars": 1049,
-      "ideas": 25,
+      "words": 124,
+      "chars": 828,
+      "ideas": 14,
       "role": "colophon",
       "order": null,
       "prev": "utrpeni_mladeho_werthera_010.html",
@@ -766,9 +770,9 @@
   ],
   "totals": {
     "all": {
-      "words": 31227,
-      "chars": 179654,
-      "ideas": 463
+      "words": 31193,
+      "chars": 179433,
+      "ideas": 452
     },
     "chapters": {
       "words": 31061,
