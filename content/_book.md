@@ -13,7 +13,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - utrpeni_mladeho_werthera_002.html
+  - promo.html
   - utrpeni_mladeho_werthera_005.html
   - utrpeni_mladeho_werthera_006.html
   - utrpeni_mladeho_werthera_007.html
