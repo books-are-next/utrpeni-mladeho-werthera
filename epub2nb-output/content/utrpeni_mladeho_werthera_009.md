@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ## 20\. října 1771
 
 Včera jsme sem dojeli. Vyslanec churaví a nebude tedy několik dní vycházet. Kdyby jen nebyl takový morous, bylo by dobře. Vidím to, vidím, že mi osud chystá těžké zkoušky! Ale kurážně do toho! Lehká mysl všechno snese. – Lehká mysl! Musím se až smát, jak mně to slovo zabloudilo do pera. Ó, jen mít trochu lehčí krev, a byl bych nejšťastnější člověk pod sluncem. Bože! Kde jiní se svou troškou sil a talentu se přede mnou nafukují s blahobytnou samolibostí, já si nad svou silou a schopností zoufám. Dobrý bože, jenžs mi dal všechno, proč nezadržels polovici svých darů a nedal mi sebedůvěru a spokojenost!
@@ -470,3 +472,5 @@ Vína byla upita jediná sklenka. Na pultu ležela rozevřena „Emilie Galottio
 O Albertově hrůze, o Lottině bídě raději pomlčím.
 
 Lottin otec přicválal, jakmile uslyšel, co se stalo. Zulíbal umírajícího; hořce plakal. Jeho nejstarší synové přišli brzy po něm pěšky. Klesli před postelí s výrazem nesmírného hoře, líbali ho na ruce a na ústa. A nejstarší, kterého vždy měl nejvíc rád, přisál se mu ke rtům, až skonal, a chlapce násilím odtrhli. Umřel v pravé poledne. Přítomnost správcova a jeho opatření zabránily shluku. V noci, k jedenácté, dal ho pohřbít na místě, které si vyvolil. Otec a synové šli za mrtvým. Albert k tomu neměl sil. Báli se o Lottin život. Řemeslníci ho nesli. Za rakví nebylo kněze.
+
+</section>

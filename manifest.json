@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "goethe-utrpeni-mladeho-werthera-1af2bce",
-  "revision": "1af2bce",
+  "identifier": "goethe-utrpeni-mladeho-werthera-b3aca6f",
+  "revision": "b3aca6f",
   "readingOrder": [
     "promo.html",
     "utrpeni_mladeho_werthera_005.html",
@@ -21,8 +21,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 10:44:32 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652352272174
+    "date": "Fri Jun 10 2022 17:57:21 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883841720
   },
   "documents": [
     {
@@ -750,9 +750,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 124,
-      "chars": 828,
-      "ideas": 14,
+      "words": 56,
+      "chars": 407,
+      "ideas": 5,
       "role": "colophon",
       "order": null,
       "prev": "utrpeni_mladeho_werthera_010.html",
@@ -770,9 +770,9 @@
   ],
   "totals": {
     "all": {
-      "words": 31193,
-      "chars": 179433,
-      "ideas": 452
+      "words": 31125,
+      "chars": 179012,
+      "ideas": 443
     },
     "chapters": {
       "words": 31061,

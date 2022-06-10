@@ -2,6 +2,7 @@
 title: Tiráž
 ---
 
+<section>  
 **Johann Wolfgang Goethe**  
 **Utrpení mladého Werthera**  
 Edice Světová próza v českých překladech  
@@ -9,11 +10,8 @@ Překlad Erik A. Saudek
 Redakce Jaroslava Bednářová  
 Vydala **Městská knihovna v Praze**  
 Mariánské nám. 1, 115 72 Praha 1  
-1. vydání z 12. 5. 2022.
-
-***
-
-Znění tohoto textu vychází z díla [Utrpení mladého Werthera](https://aleph.nkp.cz/F/?func=direct&doc_number=000130174&local_base=CNB) tak, jak bylo vydáno v Praze nakladatelstvím Mladá fronta v roce 1968. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
+</section>  
+1. vydání z 10. 6. 2022.
 
 ***
 
