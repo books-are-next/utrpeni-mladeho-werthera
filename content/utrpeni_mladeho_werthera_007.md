@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ## 4\. května 1771
 
 Jak jsem rád, že jsem vám ujel! Příteli rozmilý, jak podivné je srdce člověka! Tebe jsem opustil, jehož tolik miluji, s nímž jsem býval nerozlučně spjat, a jsem tomu rád! Vím, že mi odpustíš. Což nebyly mé ostatní zápletky jakoby vymyšleny osudem, aby přestrašily srdce jako mé? Chudinka Leonora! A přece jsem byl nevinen! Což já za to mohl, že v tom ubohém srdci vzklíčila náklonnost, zatímco mne zajímala svéhlavá krása její sestry? A přece – jsem zcela nevinen? Neživil jsem snad její pocity? Nebavil jsem se sám jejími projevy skrznaskrz nelíčené přirozenosti, které nás tak často rozesmávaly, jakkoli málo vlastně byly směšné? Nebyl jsem to já, kdo –? Ó, co je člověk, že sám na sebe žaluje! – Polepším se, milý příteli, slibuji, polepším se! Nebudu už jako dosud přežvykovat tu trošku trápení, kterou nám osud strojí. Chci užívat přítomné chvíle a minulost mi budiž minulostí. Zajisté, máš pravdu, příteli: bylo by méně bolesti mezi lidmi, kdyby nevynakládali tolik obrazotvornosti – sám pánbůh ví, proč jsou tak ustrojeni – na to, aby si zpřítomňovali minulé utrpení, místo aby klidně snášeli lhostejnou přítomnost.
@@ -392,3 +394,5 @@ Albert se jí vrhl kolem krku, líbal ji a volal: „Jsme, budeme šťastni!“ 
 „Wertře!“ začala zas, „a taková žena musila odejít. Bože, když si tak někdy pomyslím, jak člověk dovolí, aby mu odnesli, co má na světě nejdražšího, a jak děti jediné to dovedou procítit v celé příkrosti, děti, jež ještě dlouho naříkaly, že černí muži odnesli maminku.“ Povstala. Já všecek rozrušen a zdrcen zůstal sedět a držel její ruku ve své.
 
 „Půjdeme,“ řekla, „je pozdě.“ Chtěla stáhnout ruku, já ji však sevřel pevněji. „Shledáme se,“ zvolal jsem, „najdeme se, pod jakoukoli podobou se poznáme. Jdu,“ pokračoval jsem, „jdu rád, a přece, kdybych měl říci: na věky, nesnesl bych toho. Sbohem, Lotto, sbohem, Alberte! Shledáme se zas.“ – „Zítra snad!“ odvětila s úsměvem. Zítra! Ach, nevěděla, když vyvíjela ruku z mé, že – Odcházeli alejí, já stál, díval se za nimi, jak mizí v měsíční záři; vrhl jsem se na zemi a rozplakal se usedavě; a zase jsem vyskočil a vyběhl na terasu; zahlédl jsem ještě dole ve stínu vysokých lip její bílé šaty, jež se třpytně blížily k vrátkům, rozpřáhl jsem náruč a – zmizely.
+
+</section>
