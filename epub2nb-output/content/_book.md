@@ -12,6 +12,7 @@ meta:
   languageCode: cs
   publisherShort: mkp
   edition: beletrie
+  contentType: prose
 readingOrder:
   - promo.html
   - utrpeni_mladeho_werthera_005.html
