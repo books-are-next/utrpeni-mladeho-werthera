@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "goethe-utrpeni-mladeho-werthera-b1cd3e3",
-  "revision": "b1cd3e3",
+  "identifier": "goethe-utrpeni-mladeho-werthera-04bd51c",
+  "revision": "04bd51c",
   "readingOrder": [
     "promo.html",
     "utrpeni_mladeho_werthera_005.html",
@@ -21,8 +21,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 16 2022 07:35:03 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655364903944
+    "date": "Thu Jun 23 2022 10:31:47 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655980307223
   },
   "documents": [
     {
