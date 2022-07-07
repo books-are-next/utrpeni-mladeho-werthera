@@ -58,7 +58,7 @@
             "filename": "utrpeni_mladeho_werthera_003.md",
             "xhtml": "utrpeni_mladeho_werthera_003.html",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "inToc": false,
             "listType": "plain",
             "children": []
@@ -67,7 +67,7 @@
             "filename": "utrpeni_mladeho_werthera_004.md",
             "xhtml": "utrpeni_mladeho_werthera_004.html",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "inToc": false,
             "listType": "plain",
             "children": []
@@ -135,7 +135,7 @@
             "filename": "utrpeni_mladeho_werthera_011.md",
             "xhtml": "utrpeni_mladeho_werthera_011.html",
             "id": 10,
-            "role": "colophon",
+            "role": "about",
             "inToc": false,
             "listType": "plain",
             "children": []
@@ -302,6 +302,6 @@
       "user": "books-are-next",
       "repo": "utrpeni-mladeho-werthera"
     },
-    "generatedAt": 1655979948892
+    "generatedAt": 1657182610343
   }
 }

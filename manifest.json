@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "goethe-utrpeni-mladeho-werthera-04bd51c",
-  "revision": "04bd51c",
+  "identifier": "goethe-utrpeni-mladeho-werthera-46ccbd9",
+  "revision": "46ccbd9",
   "readingOrder": [
     "promo.html",
     "utrpeni_mladeho_werthera_005.html",
@@ -18,11 +18,11 @@
     "utrpeni_mladeho_werthera_008.html",
     "utrpeni_mladeho_werthera_009.html",
     "utrpeni_mladeho_werthera_010.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:31:47 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655980307223
+    "date": "Thu Jul 07 2022 08:41:31 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183291588
   },
   "documents": [
     {
@@ -736,7 +736,7 @@
       "role": "chapter",
       "order": 6,
       "prev": "utrpeni_mladeho_werthera_009.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -749,11 +749,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 143,
-      "chars": 963,
+      "chars": 962,
       "ideas": 15,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "utrpeni_mladeho_werthera_010.html",
       "next": null,
@@ -771,7 +771,7 @@
   "totals": {
     "all": {
       "words": 31212,
-      "chars": 179568,
+      "chars": 179567,
       "ideas": 453
     },
     "chapters": {
