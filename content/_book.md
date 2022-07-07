@@ -21,7 +21,7 @@ readingOrder:
   - utrpeni_mladeho_werthera_008.html
   - utrpeni_mladeho_werthera_009.html
   - utrpeni_mladeho_werthera_010.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
