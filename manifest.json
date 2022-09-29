@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "goethe-utrpeni-mladeho-werthera-ce89bbc",
-  "revision": "ce89bbc",
+  "identifier": "goethe-utrpeni-mladeho-werthera-9127b2f",
+  "revision": "9127b2f",
   "readingOrder": [
     "promo.html",
     "utrpeni_mladeho_werthera_005.html",
@@ -21,8 +21,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:33:00 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658413980610
+    "date": "Thu Sep 29 2022 21:37:28 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664487448726
   },
   "documents": [
     {
@@ -80,9 +80,9 @@
     {
       "title": "Utrpení mladého Werthera",
       "file": "utrpeni_mladeho_werthera_007.html",
-      "words": 15358,
-      "chars": 88299,
-      "ideas": 195,
+      "words": 15464,
+      "chars": 88953,
+      "ideas": 201,
       "role": "chapter",
       "order": 3,
       "prev": "utrpeni_mladeho_werthera_006.html",
@@ -394,9 +394,9 @@
     {
       "title": "Utrpení mladého Werthera",
       "file": "utrpeni_mladeho_werthera_009.html",
-      "words": 15472,
-      "chars": 88865,
-      "ideas": 225,
+      "words": 15520,
+      "chars": 89138,
+      "ideas": 228,
       "role": "chapter",
       "order": 5,
       "prev": "utrpeni_mladeho_werthera_008.html",
@@ -730,9 +730,9 @@
     {
       "title": "Poznámky pod čarou",
       "file": "utrpeni_mladeho_werthera_010.html",
-      "words": 157,
-      "chars": 972,
-      "ideas": 10,
+      "words": 311,
+      "chars": 1899,
+      "ideas": 19,
       "role": "chapter",
       "order": 6,
       "prev": "utrpeni_mladeho_werthera_009.html",
@@ -750,9 +750,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 143,
-      "chars": 963,
-      "ideas": 15,
+      "words": 134,
+      "chars": 920,
+      "ideas": 14,
       "role": "about",
       "order": null,
       "prev": "utrpeni_mladeho_werthera_010.html",
@@ -770,14 +770,14 @@
   ],
   "totals": {
     "all": {
-      "words": 31212,
-      "chars": 179568,
-      "ideas": 453
+      "words": 31511,
+      "chars": 181379,
+      "ideas": 470
     },
     "chapters": {
-      "words": 31061,
-      "chars": 178548,
-      "ideas": 434
+      "words": 31369,
+      "chars": 180402,
+      "ideas": 452
     }
   }
 }
