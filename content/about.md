@@ -18,7 +18,7 @@ Mariánské nám. 1, 115 72 Praha 1
 [^7]: Z úcty k tomuto výbornému muži byl tento dopis a ještě jeden, o němž je později zmínka, z této sbírky vypuštěn, protože se nám nezdálo, že by taková smělost byla omluvitelná, byť i byla veřejnost sebevděčnější za jejich uveřejnění.  
 [^8]: Mimochodem. _Pozn. red_.  
 [^9]: Pocty. _Pozn. red_.  
-V MKP 2. elektronické vydání z 10. 10. 2022.
+V MKP 2. elektronické vydání z 21. 10. 2022.
 
 ***
 
